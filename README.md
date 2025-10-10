@@ -40,9 +40,6 @@ Inside each room, users can view submitted questions and interact with an **AI a
 - 🪄 **Lucide React Icons:**  
   Beautiful and lightweight icon set for modern interfaces.
 
-- ⚙️ **Type Generation with Orval:**  
-  Automatically generates TypeScript types and API clients.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -145,4 +142,5 @@ Created to provide a modern, simple, and interactive **Q&A experience** — comb
 ---
 
 👨‍💻 **Developed by [Dhouglas Bandeira](https://github.com/dhouglasbn)** with 💙
+
 
