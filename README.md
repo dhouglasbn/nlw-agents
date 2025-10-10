@@ -53,10 +53,13 @@ Inside each room, users can view submitted questions and interact with an **AI a
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Zod](https://zod.dev/)
 - [React Hook Form](https://react-hook-form.com/)
-- [Lucide React](https://lucide.dev/)
-- [PostCSS](https://postcss.org/)
-- [Orval](https://orval.dev/)
-- [Google Gemini SDK](https://ai.google.dev/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Shadcn UI](https://ui.shadcn.com/)
+- [Day.js](https://day.js.org/)
+- [clsx](https://github.com/lukeed/clsx)
+- [TanStack](https://tanstack.com/)
+- [Ultracite](https://ultracite.dev/)
+
 
 ---
 
@@ -142,3 +145,4 @@ Created to provide a modern, simple, and interactive **Q&A experience** — comb
 ---
 
 👨‍💻 **Developed by [Dhouglas Bandeira](https://github.com/dhouglasbn)** with 💙
+
